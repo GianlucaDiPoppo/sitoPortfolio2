@@ -190,8 +190,8 @@ p{line-height: 28px; color: #666; font-weight: 300;}
 .bg-cover{
     display: flex;
     padding: 200px 0;
-    background:linear-gradient(0deg, rgba(0,0,0,.7), rgba(0,0,0,0.9) ),
-                 url('images/Immagine\ 2023-08-20\ 154956.png') repeat center center;
+    background:linear-gradient(0deg, rgba(0,0,0,.3), rgba(0,0,0,0.5) ),
+                 url('images/foresta\ dall\'alto.jpg') repeat center center;
     background-size: cover;
 }
 
